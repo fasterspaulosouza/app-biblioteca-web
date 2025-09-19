@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-:root {
-}
-
-@theme inline {
-  --font-lexend-deca: var(--font-lexend-deca);
-  --font-inter: var(--font-inter);
-}
