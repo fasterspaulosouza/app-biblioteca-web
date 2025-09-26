@@ -35,6 +35,8 @@ export default function Login() {
     // no localstorage ou cookies
     localStorage.setItem("accessToken", data.accessToken);
     // router.push("/dashboard")
+
+    window.location.href = "/";
   }
 
   return (
